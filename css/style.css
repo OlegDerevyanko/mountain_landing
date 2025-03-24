@@ -100,7 +100,7 @@ button {
 .blog__bg {
     width: 528px;
     height: 152px;    
-    background-image: url(/images/blog-bg.png);
+    background-image: url(../images/blog-bg.png);
     background-repeat: no-repeat;
     border-radius: 0 0 12px 12px;
 
@@ -119,14 +119,10 @@ button {
 .facilities-window__box {
     min-width: 304px;
     height: 320px;
-    background-image: url(/images/facilities-bg.png);
+    background-image: url(../images/facilities-bg.png);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 304px 320px;
-    background-image: url(/images/facilities-bg.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 304px 320px;
+    background-size: 304px 320px; 
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -460,7 +456,7 @@ button {
 }
 .weather__title-box {
     padding: 16px 35px;
-    background-image: url(/images/weather-bg.png);
+    background-image: url(../images/weather-bg.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -515,7 +511,7 @@ button {
     line-height: 32px;
 }
 .today__map {
-    background-image: url(/images/map-bg.png);
+    background-image: url(../images/map-bg.png);
     background-repeat: no-repeat;
     background-size: contain;
     position: absolute;
@@ -684,7 +680,7 @@ button {
 }
 .facilities__item-img {
     box-sizing: border-box;
-    background-image: url(/images/biker.png);
+    background-image: url(../images/biker.png);
     background-repeat: no-repeat;
     background-position: left bottom;
     position: absolute;
@@ -736,7 +732,7 @@ top: -36px;
     width: 1920px;
     margin: auto;
     height: 854px;
-    background-image: url(/images/about-bg.png);
+    background-image: url(../images/about-bg.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -900,7 +896,7 @@ top: -36px;
     left: 0;
     width: 1585px;
     height: 723px;
-    background-image: url(/images/ticket.png);
+    background-image: url(../images/ticket.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
