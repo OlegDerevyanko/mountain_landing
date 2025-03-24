@@ -220,7 +220,7 @@ button {
     width: 1920px;
     margin: auto;
     height: 1978px;
-    background-image: linear-gradient(180.53deg, rgb(22, 163, 243) 1.55%,rgba(86, 163, 204, 0) 16.772%), url(/images/mountain-bg.png);
+    background-image: linear-gradient(180.53deg, rgb(22, 163, 243) 1.55%,rgba(86, 163, 204, 0) 16.772%), url(../images/mountain-bg.png);
     background-size: 1920px 1978px;
     background-repeat: no-repeat;
     background-position: top 300px;
